@@ -1,0 +1,44 @@
+body {
+    width: 70%;
+    margin: 0 auto;
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+}
+
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 42px;
+}
+
+h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    color: gray;
+    font-weight: 300;
+}
+
+a {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+#video, #image, #icon {
+    display: block;
+}
+
+#copyright {
+    text-align: right;
+}
+
+#campsite {
+    margin-bottom: 1em;
+}
